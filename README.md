@@ -3,9 +3,7 @@
 <h3 align="center">Software Engineer |  Mobile Application Developer     <br> </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=keremduman30" alt="KeremDuman" /> </p>
 <hr />
-<p align="center">
-    <img src="https://github.com/MertbabaOkulmus/MertbabaOkulmus/blob/master/developer_gif.gif"/>
-</p>
+
 <p align="left">
     <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
     <a href="https://i.ytimg.com/vi/VZ6DTHK8wgQ/maxresdefault.jpg" alt="KeremDuman" height="30" width="40" /></a>
