@@ -5,7 +5,7 @@
 <hr />
 
 <p align="left">
-    <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
+    <h4 align="left" style="margin-left: 10px">&nbsp;Connect with me:</h4>
     <a href="https://i.ytimg.com/vi/VZ6DTHK8wgQ/maxresdefault.jpg" alt="KeremDuman" height="30" width="40" /></a>
     &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kerem-duman-663757205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="KeremDuman" height="30" width="40" /></a>
     <!-- <a href="https://stackoverflow.com/users/13066603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13066603" height="30" width="40" /></a> -->
