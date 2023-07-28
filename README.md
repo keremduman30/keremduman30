@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr />
-<h3 align="center">Software Engineer |  Mobile Application Developer     <br> </h3>
+<h3 align="center"> Software Engineer  <br> </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=keremduman30" alt="KeremDuman" /> </p>
 <hr />
 
